@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(223, 223, 223)
+    
+}
+
+main{
+    font-family: sans-serif;
+    color: rgb(228, 113, 60);
+    padding: 2rem;
+    margin: 4rem;
+}
+
+#box{
+    border: 2rem rgb(252, 252, 252);
+    height: 70rem;
+    width : 50rem;
+    background-color: rgb(252, 252, 252);
+    box-shadow: 0 0 1rem 0.3rem rgb(167, 167, 167);
+}
+.heading{
+    position: relative;
+    top: 1rem;
+    display: inline;
+}
+
+.lines{
+    top:0.88rem;
+    position:relative;
+    background-color: rgb(228, 113, 60);
+    display:block;
+    margin-bottom: 0.7rem;
+    left: 13rem;
+}
+#line1{
+    height: 4px;
+    width: 50px;
+}
+#line2{
+    height: 4px;
+    width: 30px;
+}
+#line3{
+    height: 4px;
+    width: 80px;
+}
+#line4{
+    height: 4px;
+    width: 40px;
+}
+
+#pla{
+    top:1.5rem;
+    left: 18rem;
+    font-size: 0.6rem;
+    font-family: 'Times New Roman', Times, serif;
+    position:relative;
+}
+.large{
+    top:1rem;
+    height: 13rem;
+    font-size: 13rem;
+    font-weight: bold;
+    display: block;
+    position:relative;
+}
+#loveto{
+    left: 2rem;
+}
+#hate{
+    left: 20rem;
+}
+#para{
+    left: 2rem;
+}
+#site{
+    left: 18rem;
+}
+
+.mediumtext{
+    top:13rem;
+    position: absolute;
+    display: block;
+}
+.medium{
+    font-size: 1.2rem;
+    font-weight: bold;   
+    position: relative;
+}
+
+#tfh{
+    top:13rem;
+    left: 13rem;
+    width: 4rem;
+}
+
+#iia{
+    top:9rem;
+    left: 30rem;
+    width: 4rem;
+}
+
+#num371{
+    top:20rem;
+    left: 30rem;
+}
+
+#ti{
+    top:18.6rem;
+    left: 40rem;
+    width: 4.3rem;
+}
+#agb{
+    top:18.6rem;
+    left: 40rem;
+    width: 4.5rem;
+}
+
+#rr{
+    top:28rem;
+    left: 13rem;
+    width: 4rem;
+}
+
+#aili{
+    top:25.3rem;
+    left: 40rem;
+    width: 6rem;
+}
